@@ -1,3 +1,5 @@
+!!! This repository is for reproducing bugs, so don't use it! !!!
+
 ## growi-plugin-datatables
 
 This plugin add button whose adapt [DataTable](https://datatables.net/) to table.
